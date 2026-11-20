@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Avatar Rama">
+  <rect width="400" height="400" fill="#14202e"/>
+  <circle cx="200" cy="158" r="64" fill="#f2a65a"/>
+  <path d="M64 400c0-82 60-132 136-132s136 50 136 132z" fill="#d9531e"/>
+  <text x="200" y="372" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="26" font-weight="700" fill="#ffffff" letter-spacing="3">&lt;/RAMA&gt;</text>
+</svg>
